@@ -6,14 +6,11 @@ This repository contains the code and documentation for implementing an SR latch
 
 ### Contents 📃
 
-1. **Arduino Folder:**
-   - The `arduino` folder contains the Arduino sketch (`sr_latch_arduino.ino`) for implementing the SR latch on an Arduino board.
+1. **Arduino :**
+   -  contains the Arduino sketch (`nor_gate.ino`) for implementing the SR latch on an Arduino board.
 
-2. **Raspberry Pi Pico Folder:**
-   - The `raspberry_pi_pico` folder contains the MicroPython script (`sr_latch_pico.py`) for implementing the SR latch on a Raspberry Pi Pico.
-
-3. **Documentation:**
-   - The `docs` folder includes documentation files, circuit diagrams, and explanations of the SR latch implementation on both platforms.
+2. **Raspberry Pi Pico**
+   - contains the MicroPython script (`nor.py`) for implementing the SR latch on a Raspberry Pi Pico.
 
 ## SR Latch 💡
 
