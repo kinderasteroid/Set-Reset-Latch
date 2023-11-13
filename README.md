@@ -27,6 +27,20 @@ The Arduino implementation uses the Arduino IDE and a compatible Arduino board. 
 
 The Raspberry Pi Pico implementation uses MicroPython. The MicroPython script configures the GPIO pins of the Pico to emulate the SR latch, and the Pico's REPL (Read-Eval-Print Loop) can be used to observe the outputs.
 
+<figure>
+   <img src ="https://github.com/kinderasteroid/Set-Reset-Latch/assets/84179566/247dbf70-e583-4464-9d82-2aa9c64df0b3" wifth="500" height="300">
+   <figcaption>Reset</figcaption>
+</figure>
+<figure>
+  <img src ="https://github.com/kinderasteroid/Set-Reset-Latch/assets/84179566/8e187efe-5cf4-4985-a6ae-7985b5f7f7d7" wifth="500" height="300">
+   <figcaption>Set</figcaption>
+</figure>
+
+
+
+
+
+
 ## Circuit Diagrams 🪫
 
 Circuit diagrams for both the Arduino and Raspberry Pi Pico implementations are included in the `docs` folder. These diagrams detail the connections required for the SR latch.
