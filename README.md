@@ -40,7 +40,7 @@ The Raspberry Pi Pico implementation uses MicroPython. The MicroPython script co
 
 ## Circuit Diagrams 🪫
 
-Circuit diagrams for both the Arduino and Raspberry Pi Pico implementations are included in the `docs` folder. These diagrams detail the connections required for the SR latch.
+Circuit diagrams for both the Arduino and Raspberry Pi Pico implementations are included . These diagrams detail the connections required for the SR latch.
 
 ![30-SR-flipflop-circuit](https://github.com/kinderasteroid/Set-Reset-Latch/assets/84179566/cec60781-4844-4754-8e2e-479e718d27b9)
 
